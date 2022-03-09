@@ -5,3 +5,24 @@
         clear: both;
     }
 }
+
+@mixin absCenter{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+// MEDIA QUERY MANAGER
+/*
+0 - 600PX: PHONE
+600- 900PX:  TABLE PORTRAIT
+900 - 1200PX: TABLET LANDSCAPES
+1200 - 1800PX: IS WHERE OUR NORMAL STYLES APPLY
+1800PX +: BIG DESKTOP
+
+
+*/
+// @mixin  {
+    
+// }
