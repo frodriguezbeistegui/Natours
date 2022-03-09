@@ -1,2 +1,1 @@
-# natours
-git commit -m "first commit" git branch -M main git remote add origin git@github.com:frodriguezbeistegui/natours.git git push -u origin main^
+This project is designed by Jonas schmedmann for his css and sass Udemy course
